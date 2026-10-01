@@ -1,2 +1,4 @@
-name:priscilla
-usn:44
+name:Priscilla R
+usn:1VI25CD044
+branch:cse(data science)
+semester:3

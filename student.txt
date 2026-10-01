@@ -1,4 +1,4 @@
 name:Priscilla R
 usn:1VI25CD044
-branch:cse(data science)
+branch:data science
 semester:3

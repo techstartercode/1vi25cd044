@@ -1,5 +1,3 @@
 name:Priscilla R
 usn:1VI25CD044
-branch:data science
-semester:3
 project:machine learning

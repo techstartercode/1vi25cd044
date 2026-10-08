@@ -1,5 +1,9 @@
 name:Priscilla R
 usn:1VI25CD044
+<<<<<<< HEAD
 branch:data science
 semester:3
 project:machine learning
+=======
+project:machine learning
+>>>>>>> feature-branch
